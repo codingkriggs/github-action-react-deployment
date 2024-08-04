@@ -57,7 +57,7 @@ In order to achieve this, the following changes were made compared to the tutori
   publish_dir: ./react-deployment-example/build
   ```
 
-* The tutorials shows a URL that has the pattern `https://<githubuser>.github.io/react-deployment-example`, but the pattern for this monorepo should instead use the repo name, not the node package name, so `https://<githubuser>.github.io/git-action-react-deployment`.
+* The tutorials shows a URL that has the pattern `https://<githubuser>.github.io/react-deployment-example` for the introduced `package.json` line `homepage:`, but the pattern for this monorepo should instead use the repo name, not the node package name, so `https://<githubuser>.github.io/git-action-react-deployment`.
 
 ---
 
