@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/github-action-react-deployment/static/js/main.54a49d40.js",
+    "index.html": "/github-action-react-deployment/index.html",
+    "main.54a49d40.js.map": "/github-action-react-deployment/static/js/main.54a49d40.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.54a49d40.js"
+  ]
+}
