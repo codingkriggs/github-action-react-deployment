@@ -1,6 +1,6 @@
 {
   "name": "react-deployment-example",
-  "homepage": "https://codingkriggs.github.io/react-deployment-example",
+  "homepage": "https://codingkriggs.github.io/github-action-react-deployment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
